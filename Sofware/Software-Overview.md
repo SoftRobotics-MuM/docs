@@ -1,4 +1,5 @@
 # System Overview
+## Software Overview
 The basic structure of the software system is visualized here.
 
 ```mermaid
@@ -42,8 +43,14 @@ class Custom,Windows,Ubuntu Gelb;
 ## Documentation
 ### General documentation:
 Contains instructions and documentations that are needed to work with the system.
+Soft robots
 - [micro-ROS Bridge](www.todo.de)
 - [Qualisys Bridge](www.todo.de)
+
+Rigid robot
+- [dies](www.todo.de)
+- [und](www.todo.de)
+- [das](www.todo.de)
 
 ### Project specific documentations:
 Contain documentations for specific projects and are not needed to work with the system.
