@@ -6,8 +6,8 @@ this is the attempt to restructure and improve the MuM Soft-Robotics documentati
 ### Hardware
 Documentation about the robots, mechanical components and CAD-Files
 Contains:
-- overview of the existing robots (link)
-- CAD-Documentation (link)
+- [overview of the existing robots](Hardware/robots.md)
+- [CAD file structure-Documentation](Hardware/file-structure.md)
 
 ### Software
 Very complicated, chaotic collection of documentations
