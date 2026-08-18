@@ -52,7 +52,7 @@ RR_Robot_retractable
 
 ## Part and File Naming
 
-Part ID follow the structure:
+**Part ID** follow the structure:
 
 `<scope>-<type>-<number>`
 
@@ -70,7 +70,8 @@ The type identifier indicates the corresponding directory:
 - `M` – `Molding`
 - `IMP` – `CAD_imports`
 
-The corresponding CAD file name follows the structure:
+
+The corresponding CAD **file name** follows the structure:
 
 `<part-ID>_<description>.<file-extension>`
 
