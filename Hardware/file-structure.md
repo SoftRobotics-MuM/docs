@@ -1,5 +1,5 @@
 # CAD Files
-All CAD files are stored in the [cloud](https://cloud.tuhh.de/index.php).
+All CAD files are stored in the [cloud](www.todo.de).
 
 CAD models are stored in the native Autodesk Inventor formats (`.ipt` for parts and `.iam` for assemblies).
 
