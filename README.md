@@ -8,6 +8,7 @@ Documentation about the robots, mechanical components and CAD-Files
 Contains:
 - [overview of the existing robots](Hardware/robots.md)
 - [CAD file structure-Documentation](Hardware/file-structure.md)
+- [Introduction to 3D-printing](Hardware/3D-printing.md)
 
 ### Software
 Very complicated, chaotic collection of documentations
