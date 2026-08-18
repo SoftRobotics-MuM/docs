@@ -1,3 +1,6 @@
+# System Overview
+The basic structure of the software system is visualized here.
+
 ```mermaid
 flowchart LR
 
@@ -36,3 +39,12 @@ classDef Rot fill:#fce4ec,stroke:#c62828,color:#000;
 class Robot Rot;
 class Custom,Windows,Ubuntu Gelb;
 ```
+## Documentation
+### General documentation:
+Contains instructions and documentations that are needed to work with the system.
+- [micro-ROS Bridge](www.todo.de)
+- [Qualisys Bridge](www.todo.de)
+
+### Project specific documentations:
+Contain documentations for specific projects and are not needed to work with the system.
+- [latency Measurement](www.todo.de)
