@@ -12,7 +12,7 @@ The `CAD_Source` directory is divided into two main sections: `10_Common_Candida
 ### Common Candidates
 
 `10_Common_Candidates` contains components that are used across different robot designs. These are mainly components of the robot base.
-Every part in this directory uses the prefix CC_ for the part ID and the corresponding CAD file name.
+Every part in this directory uses the prefix `CC` for the part ID and the corresponding CAD file name.
 
 ### Robots
 
@@ -46,68 +46,28 @@ RR_Robot_retractable
 └── 80_Experiments
 ```
 
-The robot directories are organized as follows:
-
-- **`00_Documentation`** – Contains documentation related to the robot, such as ...
-- **`10_Product`** – Contains the CAD files that define the robot itself.
+- **`00_Documentation`** – Contains documentation related to the robot, such as manufacturing instructions and bills of materials
+- **`10_Product`**
   - **`Assemblies`** – Contains Inventor assembly files (`.iam`).
-  - **`Parts`** – Contains individual Inventor part files (`.ipt`).
-  - **`Reference_Models`** – Contains ...
+  - **`Parts`** – Contains parts that are 3D printed (`.ipt`).
+  - **`Reference_Models`** – Contains reference geometry such as silicone bodies and purchased parts.
 - **`20_Molding`** – Contains CAD files related to the manufacturing of molds for the robot.
-- **`80_Experiments`** – Contains ...
 
-# CAD Source
+## Part and File Naming
 
-Dieser Ordner enthält die CAD-Quelldateien für verschiedene Roboter.
+Part IDs follow the general structure:
 
-Die Roboter verwenden teilweise **gemeinsame bzw. modulare Komponenten** und teilweise **roboterspezifische Komponenten**. Deshalb sind allgemein verwendbare Bauteile von den Dateien der einzelnen Roboter getrennt.
+`<scope>-<type>-<number>`
 
-## Ordnerstruktur
+The first identifier specifies the scope of the part:
 
-### `10_Common_Candidates`
-
-Enthält Komponenten, die nicht eindeutig nur einem einzelnen Roboter zugeordnet sind bzw. potenziell von mehreren Robotern verwendet werden.
-
-* `CAD_imports/` – importierte CAD-Modelle, z. B. Roboter oder Servos
-* `Parts/` – allgemeine bzw. gemeinsam verwendbare Bauteile
-
-### `20_Robots`
-
-Enthält die CAD-Dateien der einzelnen Roboter.
-
-Jeder Roboter ist soweit möglich nach demselben Schema aufgebaut:
-
-* `00_Documentation/` – Dokumentation zum Roboter (z.B Stücklisten, Fertigungsanleitungen)
-* `10_Product/`
-
-  * `Assemblies/` – Baugruppen
-  * `Parts/` – Bauteile des Roboters, die aus dem 3D-Drucker kommen
-  * `Reference_Models/` – CAD Modelle von Teilen, die nicht mit dem 3D-Drucker gefertigt werden aber für das erstellen von Baugruppen wichtig sind
-* `20_Molding/` – Gussformen
+- `CC` – Part belongs to `10_Common_Candidates`
+- For robot-specific parts, the identifier corresponds to the abbreviation at the beginning of the respective robot directory name. (For example `RL` – `RL_Robot_introductions-to-robotics/`)
 
 
-## Enthaltene Roboter
+The type identifier indicates the corresponding folder:
 
-### `RL_Robot_introductions-to-robotics`
-
-Roboter für die Lehrveranstaltung "introductions to robotics".
-
----
-
-### `RR_Robot_retractable`
-
-Längenveränderbarer Roboter.
-
-
----
-
-### `RT6_Robot_tapered-6strings`
-
-Tapered Robot mit sechs Seilen.
-
-
-## CAD-Exports
-
-STL- und andere Exportdateien werden nicht dauerhaft zwischen den CAD-Quelldateien abgelegt.
-
-Die Inventor-Dateien in `10_CAD_Source` sind die Grundlage für neue Exporte.
+- `P` – `Parts`
+- `REF` – `Reference_Models`
+- `M` – `Molding`
+- `IMP` - `CAD_imports`
