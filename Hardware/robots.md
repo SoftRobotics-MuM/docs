@@ -31,6 +31,13 @@ The purpose of this robot is to be controlled with visual localization of the Ap
 
 <img src="Images/robot_rr.jpg" alt="RR Robot" width="200" align="right">
 
+The retractable robot is designed to change its length, allowing it to reach a larger workspace. It can be built with either three or six strings.
+
+Known **issues**:
+- The mold consists of many individual parts, making the casting process complex.
+- The tubes used to reduce friction tend to slip out of their holes.
+
+[Manufacturing instructions](www.todo.de)
 
 [CAD-Files](www.todo.de)
 
@@ -40,6 +47,7 @@ The purpose of this robot is to be controlled with visual localization of the Ap
 
 <img src="Images/robot_rt6.jpg" alt="RT6 Robot" width="200" align="right">
 
+This robot is the standard design of the MuM soft robots. It consists of two elements, each actuated by three strings. 
 
 [CAD-Files](www.todo.de)
 
