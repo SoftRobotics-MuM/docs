@@ -3,7 +3,7 @@ There are various robots in use. For every robot there is a directory in the [cl
 
 The `00_Documentation` directory of each robot contains relevant documentation, such as the bill of materials and, where available, manufacturing instructions.
 
-For information about the CAD directory structure and file naming conventions, see [file-structure.md](https://github.com/SoftRobotics-MuM/docs/blob/documentation-rework/Hardware/file-structure.md).
+For information about the CAD directory structure and file naming conventions, see [CAD file structure](file-structure.md).
 
 ## Existing Robots
 
