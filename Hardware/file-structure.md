@@ -1,7 +1,7 @@
 # CAD Files
 All CAD files are stored in the [cloud](https://cloud.tuhh.de/index.php).
 
-CAD parts are stored in the native Autodesk Inventor formats (`.ipt` for parts and `.iam` for assemblies)
+CAD models are stored in the native Autodesk Inventor formats (`.ipt` for parts and `.iam` for assemblies).
 To avoid compatibility issues between different Inventor versions, all CAD files uploaded to the cloud must be created and edited using **Autodesk Inventor 2024**.
 
 ## File Structure
@@ -12,15 +12,12 @@ The `CAD_Source` directory is divided into two main sections: `10_Common_Candida
 ### Common Candidates
 
 `10_Common_Candidates` contains components that are used across different robot designs. These are mainly components of the robot base.
-Every part in this directory uses the prefix `CC` for the part ID and the corresponding CAD file name.
 
 ### Robots
 
 `20_Robots` contains one directory for each robot design.
 
-Each robot is identified by a two- or three-letter abbreviation at the beginning of its directory name. This identifier is also used as a prefix for the part ID and the corresponding CAD file name. For example, files belonging to the retractable robot use the prefix `RR`, such as:
-
-`RR-P-001_tendon_holder_top.ipt`
+Each robot is identified by a short identifier at the beginning of its directory name.
 
 ```text
 CAD_Source
@@ -42,12 +39,12 @@ RR_Robot_retractable
 │   ├── Assemblies
 │   ├── Parts
 │   └── Reference_Models
-├── 20_Molding
-└── 80_Experiments
+└── 20_Molding
+
 ```
 
-- **`00_Documentation`** – Contains documentation related to the robot, such as manufacturing instructions and bills of materials
-- **`10_Product`**
+- **`00_Documentation`** – Contains documentation related to the robot, such as manufacturing instructions and bills of materials.
+- **`10_Product`** – Contains the CAD models defining the robot.
   - **`Assemblies`** – Contains Inventor assembly files (`.iam`).
   - **`Parts`** – Contains parts that are 3D printed (`.ipt`).
   - **`Reference_Models`** – Contains reference geometry such as silicone bodies and purchased parts.
@@ -55,19 +52,34 @@ RR_Robot_retractable
 
 ## Part and File Naming
 
-Part IDs follow the general structure:
+Part ID follow the structure:
 
 `<scope>-<type>-<number>`
 
 The first identifier specifies the scope of the part:
 
 - `CC` – Part belongs to `10_Common_Candidates`
-- For robot-specific parts, the identifier corresponds to the abbreviation at the beginning of the respective robot directory name. (For example `RL` – `RL_Robot_introductions-to-robotics/`)
+- For robot-specific parts, the scope identifier corresponds to the identifier at the beginning of the respective robot directory name.
 
+For example, parts in `RL_Robot_introductions-to-robotics` use the scope identifier `RL`.
 
-The type identifier indicates the corresponding folder:
+The type identifier indicates the corresponding directory:
 
 - `P` – `Parts`
 - `REF` – `Reference_Models`
 - `M` – `Molding`
-- `IMP` - `CAD_imports`
+- `IMP` – `CAD_imports`
+
+The corresponding CAD file name follows the structure:
+
+`<part-ID>_<description>.<file-extension>`
+
+For example:
+
+`RR-P-001_tendon_holder_top.ipt`
+
+- `RR` – Scope identifier for `RR_Robot_retractable`
+- `P` – Part stored in `Parts`
+- `001` – Sequential part number
+- `tendon_holder_top` – Descriptive file name
+- `.ipt` – Autodesk Inventor part file
