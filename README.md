@@ -6,9 +6,12 @@ this is the attempt to restructure and improve the MuM Soft-Robotics documentati
 ### Hardware
 Documentation about the robots, mechanical components and CAD-Files
 Contains:
-- [overview of the existing robots](Hardware/robots.md)
+- [Overview of the existing robots](Hardware/robots.md)
 - [CAD file structure-Documentation](Hardware/file-structure.md)
 - [Introduction to 3D-printing](Hardware/3D-printing.md)
 
 ### Software
-Very complicated, chaotic collection of documentations
+Very complicated, chaotic collection of documentations.
+
+Documentation Contains:
+- [System Overview](Software/System-Overview.md)
