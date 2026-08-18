@@ -1,3 +1,11 @@
+# CAD Files
+All CAD files are stored in the [cloud](https://cloud.tuhh.de/index.php).
+
+CAD parts are stored in the native Autodesk Inventor formats (`.ipt` for parts and `.iam` for assemblies)
+To avoid compatibility issues between different Inventor versions, all CAD files uploaded to the cloud must be created and edited using **Autodesk Inventor 2024**.
+
+# File Structure
+To 
 # CAD Source
 
 Dieser Ordner enthält die CAD-Quelldateien für verschiedene Roboter.
