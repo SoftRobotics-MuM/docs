@@ -53,7 +53,7 @@ RR_Robot_retractable
 
 ## Part and File Naming
 
-**Part ID** follow the structure:
+**Part IDs** follow the structure:
 
 `<scope>-<type>-<number>`
 
