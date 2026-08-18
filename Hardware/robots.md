@@ -13,7 +13,7 @@ For information about the CAD directory structure and file naming conventions, s
 
 ## `RL` – Introduction to Robotics Robot
 
-<img src="images/robot_rl.jpg" alt="RL Robot" width="500">
+<img src="Images/robot_rl.jpg" alt="RL Robot" width="500">
 The robot that is used in the course '**Introduction to robotics**'
 
 [corresponding software documentation](www.todo.de)
