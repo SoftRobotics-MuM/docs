@@ -1,5 +1,5 @@
-# System Overview
-## Software Overview
+# Software Overview
+## System Overview
 The basic structure of the software system is visualized here.
 
 ```mermaid
