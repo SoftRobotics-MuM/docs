@@ -44,13 +44,13 @@ class MicroROS,QualisysBridge,Teensy,Servos,SensorBoard,Qualisys Blau;
 ## Work With The System
 ### 🦄 Initial Setup
 For the micro-ROS bridge
-- You need to [install micro-ROS](www.todo.de) on your Ubuntu computer.
+- You need to [install micro-ROS](micro-ROS.md) on your Ubuntu computer.
 
 The required setup depends on the programming environment you want to use:
 - **Matlab** - Follow the [ROS2 in Matlab](ROS2-in-MATLAB.md) documentation.
 - **python** or **C++** - Install [ROS2 Jazzy](https://docs.ros.org/en/jazzy/Installation.html).
 
-- [trouble shooting](www.todo.de)
+- [trouble shooting](ROS-Setup_trouble-shooting.md)
 
 For the Qualisys bridge
 - The Qualisys bridge is optional and is only required when working with the Qualisys motion capture system.
