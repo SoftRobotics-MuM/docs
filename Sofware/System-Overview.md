@@ -40,18 +40,26 @@ classDef Rot fill:#fce4ec,stroke:#c62828,color:#000;
 class Robot Rot;
 class Custom,Windows,Ubuntu Gelb;
 ```
-## Documentation
-### General documentation:
-Contains instructions and documentations that are needed to work with the system.
-Soft robots
-- [micro-ROS Bridge](www.todo.de)
-- [Qualisys Bridge](www.todo.de)
+## Work With The System
+### 🦄 Initial Setup
+For the micro-ROS bridge
+- You need to [install micro-ROS](www.todo.de) on your Ubuntu computer.
 
-Rigid robot
-- [dies](www.todo.de)
-- [und](www.todo.de)
-- [das](www.todo.de)
+For the custom code
+- If you work with **Matlab**, use the [ROS2 in Matlab](www.todo.de) documentatin.
+- If you work with **python** or **C++**, install [ROS2 Jazzy](https://docs.ros.org/en/jazzy/Installation.html).
 
-### Project specific documentations:
-Contain documentations for specific projects and are not needed to work with the system.
-- [latency Measurement](www.todo.de)
+- [trouble shooting](www.todo.de)
+
+For the Qualisys bridge
+- This is only needed if you want to work with the camera system.
+- Follow the HippoCampus [Qualisys Documentation](https://github.com/HippoCampusRobotics/qualisys_bridge)
+
+
+### 🐡 Flash The Robot
+The robot doesn't need to be flashed every time you work with it. By default the robots are flashed with [this](www.todo.de) code. To change that, follow the [not existing documentation](www.todo.de)
+
+### 🐊 Before Each Session
+
+### 🐕 Do Stuff
+Flash the robot
