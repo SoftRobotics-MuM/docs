@@ -18,4 +18,11 @@ wo legen wir sinnvoller weise die schaltpläne der platinen ab?
 ## Qualisys bridge
 nochmal eine etwas verständlichere Anleitung schreiben
 
-## 🦁🦛🫏🐴🐊
+## Wiki löschen
+das wiki sollte jetzt eigentlich vollständig in die neue makdown struktur kopiert sein und somit überflüssig
+
+## firmware documentation schreiben
+in system-Overview ist eine dokumentation verlinkt, die leer ist. da müssen inhalte rein
+
+## 🦁🦛🫏🐴🐊🐘
+
