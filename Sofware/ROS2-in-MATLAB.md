@@ -2,8 +2,6 @@
 
 ## Required software 
 
-This setup is intended for **Ubuntu 24.04**.
-
 ### MATLAB
 - version MATLAB R2025b
 - ROS Toolbox
