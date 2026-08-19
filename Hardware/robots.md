@@ -27,7 +27,7 @@ The purpose of this robot is to be controlled with visual localization of the Ap
 
 [CAD-Files](www.todo.de)
 
-[corresponding software documentation](www.todo.de)
+[corresponding software documentation](https://github.com/SoftRobotics-MuM/course-introduction-to-robotics)
 
 <br clear="right">
 
