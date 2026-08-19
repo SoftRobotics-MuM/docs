@@ -67,7 +67,7 @@ The robot does not normally need to be flashed before each session.
 
 By default the robots are flashed with the [teensy-hub](https://github.com/SoftRobotics-MuM/teensy-hub) firmware. 
 
-If you need to modify or replace the firmware, follow the [not existing firmware documentation](www.todo.de)
+If you need to modify or replace the firmware, follow the [empty firmware documentation](System-Overview.md)
 
 
 ### 🐕 Custom Code
