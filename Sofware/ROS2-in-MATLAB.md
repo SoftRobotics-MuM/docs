@@ -12,7 +12,8 @@ Python is required by the ROS Toolbox to generate support for custom ROS 2 messa
 
 ### C++ Compiler
 
-- GCC / G++
+- **Ubuntu:** GCC / G++
+- **Windows:** Visual Studio 2019 or 2022
 
 The compiler is required by the ROS Toolbox to generate support for custom ROS 2 messages.
 
@@ -21,11 +22,11 @@ The compiler is required by the ROS Toolbox to generate support for custom ROS 2
 Find the path to the Python 3.10 executable.
 
 **Windows:**
-```powershell
+```bash
 py -3.10 -c "import sys; print(sys.executable)"
 ```
 **Ubuntu:**
-```powershell
+```bash
 python3.10 -c "import sys; print(sys.executable)"
 ```
 
@@ -55,8 +56,6 @@ In MATLAB, run `ros2genmsg` with the path to the parent directory:
 ```matlab
 ros2genmsg("/path/to/custom")
 ```
-
-Restart MATLAB after the messages have been generated.
 
 
 ## Verify the Custom Messages
@@ -92,7 +91,7 @@ servo_cmd_sub = ros2subscriber(node_sub,"/teensy_hub/servo_pos",@servo_cmd_sub_c
 %% publish
 while true 
     servo_cmd_msg = ros2message(servo_cmd_pub);
-    servo_cmd_msg.servo_micros = uint16(ones(12,1)*15000);
+    servo_cmd_msg.servo_micros = uint16(ones(12,1)*1500);
     send(servo_cmd_pub,servo_cmd_msg);
 
     pause(0.1);
