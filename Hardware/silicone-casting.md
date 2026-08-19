@@ -34,9 +34,9 @@ Following steps are specific for the **`RT6` - Tapered Robot** with 6 Strings.
 > Make sure that there are no gaps for the silicone to leak out! You can use tape to seal them.
 
 ## Prepare your workspace
-Make sure to get some paper towels ready.
-
-Put on rubber gloves.
+- Make sure to get some paper towels ready.
+- Line the vacuum bell with paper towels.
+- Put on rubber gloves.
 
 ## Casting
 ### 1. Determine the amount of silicone you need. 
