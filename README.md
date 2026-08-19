@@ -14,7 +14,7 @@ Contains:
 Contains a system overview and guides how to work with the system.
 - [Introduction into the system](Sofware/System-Overview.md) 
 
-### Rigid robot 
+### Rigid robot:
 more or less helpful documentations:
 - [UR10e setup](Software/UR10/UR10e-setup.md)
 - [URSim install](Software/UR10/URSim_install.md)
