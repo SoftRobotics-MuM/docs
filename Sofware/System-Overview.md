@@ -47,7 +47,7 @@ For the micro-ROS bridge
 - You need to [install micro-ROS](www.todo.de) on your Ubuntu computer.
 
 The required setup depends on the programming environment you want to use:
-- **Matlab** - Follow the [ROS2 in Matlab](www.todo.de) documentation.
+- **Matlab** - Follow the [ROS2 in Matlab](ROS2-in-MATLAB.md) documentation.
 - **python** or **C++** - Install [ROS2 Jazzy](https://docs.ros.org/en/jazzy/Installation.html).
 
 - [trouble shooting](www.todo.de)
@@ -71,4 +71,4 @@ By default the robots are flashed with the [teensy-hub](https://github.com/SoftR
 ### 🐕 Custom Code
 You can write your ROS2 nodes in Python, C++ or Matlab.
 - For **Python** or **C++** the [ROS2 documentation](https://docs.ros.org/en/jazzy/index.html) might help.
-- For **Matlab** you can use [our documentation](www.todo.de) or the [MATLAB documentation](https://de.mathworks.com/help/ros/ros-network-access.html) for more details.
+- For **Matlab** you can use [our documentation](ROS2-in-MATLAB.md) or the [MATLAB documentation](https://de.mathworks.com/help/ros/ros-network-access.html) for more details.
