@@ -7,10 +7,14 @@ For information about the CAD directory structure and file naming conventions, s
 
 ## Existing Robots
 
-- `RL` – Introduction to Robotics Robot
-- `RR` – Retractable Robot
-- `RT6` – Tapered 6-String Robot
+- [`RL` – Introduction to Robotics Robot](#rl)
+- [`RR` – Retractable Robot](#rr)
+- [`RT6` – Tapered 6-String Robot](#rt6)
+- [`GR` – Gripper](#gr)
+- [`RS` – Straight 6 Element Robot](#rs)
 
+
+<a name="rl"></a>
 ## `RL` – Introduction to Robotics Robot
 
 <img src="Images/robot_rl.jpg" alt="RL Robot" width="200" align="right">
@@ -27,6 +31,8 @@ The purpose of this robot is to be controlled with visual localization of the Ap
 
 <br clear="right">
 
+
+<a name="rr"></a>
 ## `RR` – Retractable Robot
 
 <img src="Images/robot_rr.jpg" alt="RR Robot" width="200" align="right">
@@ -43,11 +49,36 @@ Known **issues**:
 
 <br clear="right">
 
+
+<a name="rt6"></a>
 ## `RT6` – Tapered 6-String Robot
 
 <img src="Images/robot_rt6.jpg" alt="RT6 Robot" width="200" align="right">
 
 This robot is the standard design of the MuM soft robots. It consists of two elements, each actuated by three strings. 
+
+There is a three strings version of this robot. The mold for this can be found in [`RL_Robot_introductions-to-robotics/`](www.todo.de)
+
+[CAD-Files](www.todo.de)
+
+<br clear="right">
+
+<a name="gr"></a>
+## `GR` – Gripper
+
+<img src="Images/gripper_gr.jpg" alt="Gripper" width="200" align="right">
+
+[CAD-Files](www.todo.de)
+
+<br clear="right">
+
+
+<a name="rs"></a>
+## `RS` – Straight 6 Element Robot 
+
+<img src="Images/robot_rs.jpg" alt="RS Robot" width="200" align="right">
+
+This is an earlier version of the standard soft robot and is replaced by the `RT6` – Tapered 6-String Robot.
 
 [CAD-Files](www.todo.de)
 
