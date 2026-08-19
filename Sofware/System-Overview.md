@@ -39,27 +39,36 @@ classDef Rot fill:#fce4ec,stroke:#c62828,color:#000;
 
 class Robot Rot;
 class Custom,Windows,Ubuntu Gelb;
+class MicroROS,QualisysBridge,Teensy,Servos,SensorBoard,Qualisys Blau;
 ```
 ## Work With The System
 ### 🦄 Initial Setup
 For the micro-ROS bridge
 - You need to [install micro-ROS](www.todo.de) on your Ubuntu computer.
 
-For the custom code
-- If you work with **Matlab**, use the [ROS2 in Matlab](www.todo.de) documentatin.
-- If you work with **python** or **C++**, install [ROS2 Jazzy](https://docs.ros.org/en/jazzy/Installation.html).
+The required setup depends on the programming environment you want to use:
+- **Matlab** - Follow the [ROS2 in Matlab](www.todo.de) documentation.
+- **python** or **C++** - Install [ROS2 Jazzy](https://docs.ros.org/en/jazzy/Installation.html).
 
 - [trouble shooting](www.todo.de)
 
 For the Qualisys bridge
-- This is only needed if you want to work with the camera system.
+- The Qualisys bridge is optional and is only required when working with the Qualisys motion capture system.
 - Follow the HippoCampus [Qualisys Documentation](https://github.com/HippoCampusRobotics/qualisys_bridge)
 
-
+### 🐊 Each Session
+1. Prepare/connect the robot.
+2. start the microros bridge
+3. if required star qualisys and the qualisys bride
+4. start your custom ros2 nodes
+   
 ### 🐡 Flash The Robot
-The robot doesn't need to be flashed every time you work with it. By default the robots are flashed with [this](www.todo.de) code. To change that, follow the [not existing documentation](www.todo.de)
+The robot does not normally need to be flashed before each session.
 
-### 🐊 Before Each Session
+By default the robots are flashed with the [teensy-hub](https://github.com/SoftRobotics-MuM/teensy-hub) firmware. If you need to modify or replace the firmware, follow the [not existing firmware documentation](www.todo.de)
 
-### 🐕 Do Stuff
-Flash the robot
+
+### 🐕 Custom Code
+You can write your ROS2 nodes in Python, C++ or Matlab.
+- For **Python** or **C++** the [ROS2 documentation](https://docs.ros.org/en/jazzy/index.html) might help.
+- For **Matlab** you can use [our documentation](www.todo.de) or the [MATLAB documentation](https://de.mathworks.com/help/ros/ros-network-access.html) for more details.
