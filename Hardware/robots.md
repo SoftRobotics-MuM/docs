@@ -7,11 +7,11 @@ For information about the CAD directory structure and file naming conventions, s
 
 ## Existing Robots
 
-- [`RL`](#rl)  – Introduction to Robotics Robot
-- [`RR` – Retractable Robot](#rr)
-- [`RT6` – Tapered 6-String Robot](#rt6)
-- [`GR` – Gripper](#gr)
-- [`RS` – Straight 6 Element Robot](#rs)
+- [`RL`](#rl) – Introduction to Robotics Robot
+- [`RR`](#rr) – Retractable Robot
+- [`RT6`](#rt6) – Tapered 6-String Robot
+- [`GR`](#gr) – Gripper
+- [`RS`](#rs) – Straight 6 Element Robot
 
 
 <a name="rl"></a>
