@@ -20,6 +20,7 @@
 | nuts (M3) | 12 | |
 | imu circuit boards |  | |
 
-# Prepare and remove the RT6 mold
-This is a instruction on how to prepare and remove the RT6 mold
 
+
+<img src="Images/FertigungRT6/RT6_step1.png" alt="step 1" width="200" align="right">
+<br clear="right">
