@@ -58,9 +58,26 @@ For the Qualisys bridge
 
 ### Each Session
 1. Prepare/connect the robot.
-2. start the microros bridge
-3. if required star qualisys and the qualisys bride
-4. start your custom ros2 nodes
+2. Do this:
+   ```
+   export ROS_DOMAIN_ID=72
+   source /opt/ros/jazzy/setup.bash
+   source install/setup.bash
+   ```
+   or when using MATLAB:
+   ```
+   export ROS_DOMAIN_ID=72
+   export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
+   source /opt/ros/jazzy/setup.bash
+   source install/setup.bash
+   ```
+
+4. Start the microros bridge:
+   ```
+   docker run -it --rm -v /dev:/dev -v /dev/shm:/dev/shm --privileged --net=host microros/micro-ros-agent:$ROS_DISTRO udp4 --port 8888 -v6
+   ```
+5. If required start qualisys and the qualisys bride
+6. Start your custom ros2 nodes
    
 ### Flash The Robot
 The robot does not normally need to be flashed before each session.
