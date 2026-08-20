@@ -12,7 +12,6 @@ cloud links erstellen und einfügen
 wo legen wir sinnvoller weise die schaltpläne der platinen ab?
 
 ## Fertigung
-- Anleitung gießen
 - Anleitungen Zusammenbau (Plattform, Markerhalter, Schnüre,...)
 - Stücklisten auch mit nicht gedruckten teilen (schrauben, servos, schnüre, etc.)
 
