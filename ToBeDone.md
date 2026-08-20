@@ -1,5 +1,6 @@
 # ToDo
-delete the tasks when they are done. when there are no tasks left, this file can be deleted
+> [!Note]
+> Delete the tasks when they are done. when there are no tasks left, this file can be deleted
 
 ## Versionierung CAD Dateien
 wir brauchen ein Konzept für die Versionierung der CAD Dateien, wenn wir diese weiterentwickeln wollen
