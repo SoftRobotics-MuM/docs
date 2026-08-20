@@ -1,7 +1,7 @@
 # Silicone Casting
 This is a general guide on how to work with silicone.
 
-## Chose the silicone type
+## Choose the silicone type
 |  |  | ZA 00 Translucid | RTV Silikon ZA 22 Mould | RTV Silikon HT 33 Transparent | RTV Silikon HT 45 Transparent |
 |--|--|:----------------:|:-----------------------:|:-----------------------------:|:-----------------------------:|
 | **Density [kg/l]** | **Dichte [kg/l]** | 1.03 | 1.13 | 1.09 | 1.11 |
