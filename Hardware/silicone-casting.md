@@ -34,23 +34,77 @@ Following steps are specific for the **`RT6` - Tapered Robot** with 6 Strings.
 > Make sure that there are no gaps for the silicone to leak out! You can use tape to seal them.
 
 ## Prepare your workspace
-- Make sure to get some paper towels ready.
-- Line the vacuum bell with paper towels.
-- Put on rubber gloves.
+You need:
+
+| Item | Notes |
+|------|-------|
+| Prepared mold |  |
+| Stable stand | Holds the mold upright during casting |
+| Rubber gloves |  |
+| Paper towels | Keep some extra nearby |
+| Scale | For measuring the silicone components |
+| Vacuum chamber |  |
+| Clean mixing cups | One or two, depending on the amount of silicone |
+| Mixing stick or spatula |  |
+| Silicone components | Both components of the silicone you chose |
+| Silicone pigment | Optional - prepared in a syringe. (You can also mix colors: use separate syringes and add each color individually to the silicone before mixing.) |
+
+To do:
+- Line your workspace with paper towels.
+- Line the vacuum chamber with paper towels.
+- Take some extra towels to be able to clean the silicone bottles
+- Put the mold at the towels
+
+Make sure everything is ready before mixing the silicone.
 
 ## Casting
 ### 1. Determine the amount of silicone you need. 
 In case you have an Inventor model of the silicone body, you can find the volume in Inventor:
--  Go to I properties
--  Open the Physical tab.
--  If necessary, click Update to recalculate the physical properties.
+-  Go to `iProperties`
+-  Open the `Physical` tab.
+-  If necessary, click `Update` to recalculate the physical properties.
 
 You can calculate the needed mass of the silicone by using the density from the table.
 
 It might be good to prepare a little bit more silicone in case of leaking and residues in the mixing pot.
 
 
+### 2. Mix the Silicone
 
+- Pour the required amount of each silicone component into the mixing cup. Clean the bottle openings before closing them. Use separate paper towels for each component and do not mix up the lids, as this could cause the silicone to start curing inside the bottles.
+
+- Add the pigment to the silicone. Put a small amount of pigment onto the spatula — the colors are very strong, so only a little is needed. Before opening the syringe, pull the plunger back slightly to create a small vacuum and prevent the pigment from splashing out.
+
+- Mix the silicone thoroughly. Make sure to scrape the walls and bottom of the cup. The color is a useful indicator of whether everything has been mixed evenly.
+
+- If the cup is more than half full, divide the silicone between two cups.
+
+
+### 3. Vacuum the Silicone
+
+This step removes trapped air and helps prevent bubbles in the silicone body.
+
+- Place the silicone cups into the vacuum chamber.
+- Close the lid and make sure the valve at the top is closed so that no air can enter.
+- Turn on the vacuum pump.
+
+The air bubbles in the silicone will expand and rise to the surface. To help the bubbles burst, you can tap the vacuum chamber on the table.
+
+The process is complete once the silicone has risen and then settled back down.
+
+- Turn off the vacuum pump.
+- Slowly open the valve to let air back into the chamber. Increase the airflow gradually.
+
+The silicone is now ready to pour.
+
+### 4. Pour in the silicone
+
+
+> [!CAUTION]
+> Be careful with your clothes. The silicone is sticky and the colors won't wash out.
+
+## Cleaning
+Cleaning is the easiest when the silicone is already dry.
 ## Drying
 You can look up the Curing Time in the table at the top. You can find this at the silicone box in the lab as well.
 The Curing Time depends on the weather. Therefore when it is really cold the silicone might need more time.
