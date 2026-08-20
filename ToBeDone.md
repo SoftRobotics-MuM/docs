@@ -24,5 +24,11 @@ das wiki sollte jetzt eigentlich vollständig in die neue makdown struktur kopie
 ## firmware documentation schreiben
 in system-Overview ist eine dokumentation verlinkt, die leer ist. da müssen inhalte rein
 
+## gussform anleitung von rr als markdown
+für einheitlichkeit und verlinkbarkeit ist es sinnvoller, wenn die dokumentationen im git liegen
+
+## Sollen die Stücklisten auch ins git?
+das vielleicht nicht als markdown sondern als csv...
+
 ## 🦁🦛🫏🐴🐊🐘
 
