@@ -6,7 +6,7 @@ Contains:
 - [Overview of the existing robots](Hardware/robots.md)
 - [CAD file structure-Documentation](Hardware/file-structure.md)
 - [Introduction to 3D-printing](Hardware/3D-printing.md)
-- [General instruction for silicone casting](Hardware/silicone-casting.md)
+- [Guide on how to work with silicone](Hardware/silicone-casting.md)
 
 
 ## 🖥️ Software
