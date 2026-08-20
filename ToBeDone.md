@@ -18,7 +18,7 @@ wo legen wir sinnvoller weise die schaltpläne der platinen ab?
 ## Qualisys bridge
 nochmal eine etwas verständlichere Anleitung schreiben
 
-## firmware documentation schreiben
+## [firmware documentation](Software/firmware.md) schreiben
 in system-Overview ist eine dokumentation verlinkt, die leer ist. da müssen inhalte rein
 
 ## gussform anleitung von rr als markdown
