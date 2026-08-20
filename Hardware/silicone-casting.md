@@ -58,7 +58,7 @@ To do:
 Make sure everything is ready before mixing the silicone.
 
 ## Casting
-### 1. Determine the amount of silicone you need. 
+### 🧮 Determine the amount of silicone you need. 
 In case you have an Inventor model of the silicone body, you can find the volume in Inventor:
 -  Go to `iProperties`
 -  Open the `Physical` tab.
@@ -69,7 +69,7 @@ You can calculate the needed mass of the silicone by using the density from the 
 It might be good to prepare a little bit more silicone in case of leaking and residues in the mixing pot.
 
 
-### 2. Mix the Silicone
+### 🧪 Mix the Silicone
 
 - Pour the required amount of each silicone component into the mixing cup. Clean the bottle openings before closing them. Use separate paper towels for each component and do not mix up the lids, as this could cause the silicone to start curing inside the bottles.
 
@@ -80,7 +80,7 @@ It might be good to prepare a little bit more silicone in case of leaking and re
 - If the cup is more than half full, divide the silicone between two cups.
 
 
-### 3. Vacuum the Silicone
+### 🌋 Vacuum the Silicone
 
 This step removes trapped air and helps prevent bubbles in the silicone body.
 
@@ -97,16 +97,20 @@ The process is complete once the silicone has risen and then settled back down.
 
 The silicone is now ready to pour.
 
-### 4. Pour in the silicone
+### 🫗 Pour in the silicone
+Pour the silicone slowly into the mold in a thin, continuous stream from some height. This helps remove remaining air bubbles.
 
+Give the silicone some time to flow all the way down into the mold. The level may drop as it settles, so top it up if necessary.
 
 > [!CAUTION]
 > Be careful with your clothes. The silicone is sticky and the colors won't wash out.
 
 ## Cleaning
-Cleaning is the easiest when the silicone is already dry.
+Cleaning is the easiest when the silicone is already dry. 
+
 ## Drying
 You can look up the Curing Time in the table at the top. You can find this at the silicone box in the lab as well.
+
 The Curing Time depends on the weather. Therefore when it is really cold the silicone might need more time.
 
 ## Remove the mold
