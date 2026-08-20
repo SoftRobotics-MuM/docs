@@ -13,7 +13,7 @@ Contains:
 
 ### General documentation:
 Contains a system overview and guides how to work with the system.
-- [Introduction into the system](Sofware/System-Overview.md) 
+- [Introduction into the system](Software/System-Overview.md) 
 
 ### Rigid robot:
 more or less helpful documentations:
