@@ -20,11 +20,15 @@ For information about the CAD directory structure and file naming conventions, s
 
 <img src="Images/robot_rt3.jpg" alt="RT3 Robot" width="200" align="right">
 
-This robot is the standard design of the MuM soft robots. The RT3 version consists of one element, three strings. 
+This robot is the standard design of the MuM soft robots. The RT3 version consists of one element, three strings.
 
 [CAD-Files](www.todo.de)
 
 [Bill of Materials](bom/RT3.csv)
+
+There are no individual mold instructions until now. But it basically is the same as the 6-String robot with less parts.
+
+[Mold instructions RT6](Molds/RT6_mold.md)
 
 <br clear="right">
 
@@ -34,7 +38,7 @@ This robot is the standard design of the MuM soft robots. The RT3 version consis
 
 <img src="Images/robot_rt6.jpg" alt="RT6 Robot" width="200" align="right">
 
-This robot is the standard design of the MuM soft robots. The RT6 versin consists of two elements, each actuated by three strings. 
+This robot is the standard design of the MuM soft robots. The RT6 version consists of two elements, each actuated by three strings. 
 
 [CAD-Files](www.todo.de)
 
