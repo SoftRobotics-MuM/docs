@@ -1,5 +1,14 @@
-Part,Quantity,Notes
-RT6-P-001,1,3D printed
-RT6-P-002,3,3D printed
-Spring steel wire,6,300 mm
-Silicone HT 33,180 g,
+ID,Bauteil,Anzahl,Dateipfad,Bemerkung
+RT6-P-001,tendon holder,1,/20_Robots/RT6_Robot_tapered-6strings/10_Product/Parts/RT6-P-001_tendon_holder_top.ipt,
+RT6-P-002,tendon holder,1,/20_Robots/RT6_Robot_tapered-6strings/10_Product/Parts/RT6-P-002_tendon_holder_middleA.ipt,
+RT6-P-003,tendon holder,1,/20_Robots/RT6_Robot_tapered-6strings/10_Product/Parts/RT6-P-003_tendon_holder_middleB.ipt,
+RT6-P-004,mounting point,1,/20_Robots/RT6_Robot_tapered-6strings/10_Product/Parts/RT6-P-004_mounting_point_25mm.ipt,wird ins Silikon eingegossen
+RT6-P-005,mounting point,1,/20_Robots/RT6_Robot_tapered-6strings/10_Product/Parts/RT6-P-005_mounting_point_28.1mm.ipt,wird ins Silikon eingegossen
+RT6-P-006,mounting point,1,/20_Robots/RT6_Robot_tapered-6strings/10_Product/Parts/RT6-P-006_mounting_point_30.5mm.ipt,wird ins Silikon eingegossen
+RT6-P-007,mounting point,1,/20_Robots/RT6_Robot_tapered-6strings/10_Product/Parts/RT6-P-007_mounting_point_33mm.ipt,wird ins Silikon eingegossen
+CC-P-001,Baseplate,1,/10_Common_Candidates/Parts/CC-P-001_Baseplate.ipt,
+CC-P-002,Roboter Fuß,1,/10_Common_Candidates/Parts/CC-P-002_robot_base_oben.ipt,
+CC-P-003,Roboter Fuß,1,/10_Common_Candidates/Parts/CC-P-003_robot_base_unten.ipt,
+CC-P-005,Spule,6,/10_Common_Candidates/Parts/CC-P-005_tendon_reel_nut_holder.ipt,
+CC-P-006,Spule,6,/10_Common_Candidates/Parts/CC-P-006_tendon_reel_bottom.ipt,
+CC-P-007,Spule,6,/10_Common_Candidates/Parts/CC-P-007_tendon_reel_top_3mm.ipt,
