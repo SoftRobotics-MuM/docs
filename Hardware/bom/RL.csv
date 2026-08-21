@@ -12,4 +12,17 @@ CC-P-005,Spule,3,/10_Common_Candidates/Parts/CC-P-005_tendon_reel_nut_holder.ipt
 CC-P-006,Spule,3,/10_Common_Candidates/Parts/CC-P-006_tendon_reel_bottom.ipt,
 CC-P-007,Spule,3,/10_Common_Candidates/Parts/CC-P-007_tendon_reel_top_3mm.ipt,
 ,,,,
-This robot uses the silicone body of the RT3 – tapered 3 strings robot,,,,
+Silicone body,,,,
+RT3-M-001,Mold,1,10_CAD_Source/20_Robots/RT3_Robot_tapered-3strings/20_Molding/RT3-M-001_moldPartA.ipt,Gussform nur für die Fertigung
+RT3-M-002,Mold,1,10_CAD_Source/20_Robots/RT3_Robot_tapered-3strings/20_Molding/RT3-M-002_moldPartB.ipt,Gussform nur für die Fertigung
+RT3-M-003,Mold,1,10_CAD_Source/20_Robots/RT3_Robot_tapered-3strings/20_Molding/RT3-M-003_Zentrierteil.ipt,Gussform nur für die Fertigung
+,,,,
+Sonstige,,,,
+,Tendon,,,
+,Servo motors,3,,
+,Screws(M?x?),,,
+,Screws(M?x?),,,
+,Screws(M?x?),,,
+,Screws(M?x?),,,
+,Tubes,,,
+und noch vieles mehr,,,,
