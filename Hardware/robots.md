@@ -35,6 +35,7 @@ This robot is the standard design of the MuM soft robots. The RT3 version consis
 This robot is the standard design of the MuM soft robots. The RT6 versin consists of two elements, each actuated by three strings. 
 
 [CAD-Files](www.todo.de)
+[Mold instructions](Molds/rt6_Mold.md)
 
 <br clear="right">
 
