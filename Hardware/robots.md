@@ -1,7 +1,7 @@
 # Robots
 There are various robots in use. For every robot there is a directory in the [cloud](www.todo.de), containing the corresponding CAD files and documentation.
 
-The `00_Documentation` directory of each robot contains relevant documentation, such as the bill of materials and, where available, manufacturing instructions.
+The `00_Documentation` directory of each robot contains relevant documentation, such as the **bill of materials** and, where available, **manufacturing instructions**.
 
 For information about the **CAD directory** structure and file naming conventions, see [CAD file structure](file-structure.md).
 
