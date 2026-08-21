@@ -4,6 +4,6 @@ RT6-P-002,mounting point,1,/20_Robots/RT3_Robot_tapered-3strings/10_Product/Part
 CC-P-001,Baseplate,1,/10_Common_Candidates/Parts/CC-P-001_Baseplate.ipt,
 CC-P-002,Roboter Fuß,1,/10_Common_Candidates/Parts/CC-P-002_robot_base_oben.ipt,
 CC-P-003,Roboter Fuß,1,/10_Common_Candidates/Parts/CC-P-003_robot_base_unten.ipt,
-CC-P-005,Spule,6,/10_Common_Candidates/Parts/CC-P-005_tendon_reel_nut_holder.ipt,"kann sein, dass das das falsche ist "
-CC-P-006,Spule,6,/10_Common_Candidates/Parts/CC-P-006_tendon_reel_bottom.ipt,"kann sein, dass das das falsche ist "
-CC-P-007,Spule,6,/10_Common_Candidates/Parts/CC-P-007_tendon_reel_top_3mm.ipt,"kann sein, dass das das falsche ist "
+CC-P-005,Spule,6,/10_Common_Candidates/Parts/CC-P-005_tendon_reel_nut_holder.ipt,
+CC-P-006,Spule,6,/10_Common_Candidates/Parts/CC-P-006_tendon_reel_bottom.ipt,
+CC-P-007,Spule,6,/10_Common_Candidates/Parts/CC-P-007_tendon_reel_top_3mm.ipt,
