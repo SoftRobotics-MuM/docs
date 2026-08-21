@@ -7,30 +7,36 @@ For information about the CAD directory structure and file naming conventions, s
 
 ## Existing Robots
 
-- [`RL`](#rl) – Introduction to Robotics Robot
-- [`RR`](#rr) – Retractable Robot
-- [`RT6`](#rt6) – Tapered 6-String Robot
-- [`GR`](#gr) – Gripper
-- [`RS`](#rs) – Straight 6 Element Robot
+- [`RT3`](#rt3) - Tapered 3-String Robot
+- [`RT6`](#rt6) - Tapered 6-String Robot
+- [`RR`](#rr) - Retractable Robot
+- [`RL`](#rl) - Introduction to Robotics Robot
+- [`GR`](#gr) - Gripper
+- [`RS`](#rs) - Straight 6 Element Robot
 
 
-<a name="rl"></a>
-## `RL` – Introduction to Robotics Robot
+<a name="rt3"></a>
+## `RT3` – Tapered 3-String Robot
 
-<img src="Images/robot_rl.jpg" alt="RL Robot" width="200" align="right">
+<img src="Images/robot_rt3.jpg" alt="RT3 Robot" width="200" align="right">
 
-This is the robot that is used in the course '**Introduction to robotics**'.
-
-The tapered Robot is driven by three strings. For this robot we have a special base plate with less servo spaces and an engraved coordinate system to place an April-Tag.
-
-The purpose of this robot is to be controlled with visual localization of the April-Tags
+This robot is the standard design of the MuM soft robots. The RT3 version consists of one element, three strings. 
 
 [CAD-Files](www.todo.de)
 
-[corresponding software documentation](https://github.com/SoftRobotics-MuM/course-introduction-to-robotics)
-
 <br clear="right">
 
+
+<a name="rt6"></a>
+## `RT6` – Tapered 6-String Robot
+
+<img src="Images/robot_rt6.jpg" alt="RT6 Robot" width="200" align="right">
+
+This robot is the standard design of the MuM soft robots. The RT6 versin consists of two elements, each actuated by three strings. 
+
+[CAD-Files](www.todo.de)
+
+<br clear="right">
 
 <a name="rr"></a>
 ## `RR` – Retractable Robot
@@ -50,18 +56,25 @@ Known **issues**:
 <br clear="right">
 
 
-<a name="rt6"></a>
-## `RT6` – Tapered 6-String Robot
+<a name="rl"></a>
+## `RL` – Introduction to Robotics Robot
 
-<img src="Images/robot_rt6.jpg" alt="RT6 Robot" width="200" align="right">
+<img src="Images/robot_rl.jpg" alt="RL Robot" width="200" align="right">
 
-This robot is the standard design of the MuM soft robots. It consists of two elements, each actuated by three strings. 
+This is the robot that is used in the course '**Introduction to robotics**'. The purpose of this robot is to be controlled with visual localization of the April-Tags
 
-There is a three strings version of this robot. The mold for this can be found in [`RL_Robot_introductions-to-robotics/`](www.todo.de)
+The silicone body of this robot is the [`RT3`](#rt3) - Tapered 3-String Robot.
+
+The Robot is driven by three strings. For this robot we have a special base plate with less servo spaces and an engraved coordinate system to place an April-Tag. The CAD-files also contain the parts of the frame.
 
 [CAD-Files](www.todo.de)
 
+[corresponding software documentation](https://github.com/SoftRobotics-MuM/course-introduction-to-robotics)
+
 <br clear="right">
+
+
+
 
 <a name="gr"></a>
 ## `GR` – Gripper
@@ -71,6 +84,7 @@ There is a three strings version of this robot. The mold for this can be found i
 [CAD-Files](www.todo.de)
 
 <br clear="right">
+
 
 
 <a name="rs"></a>
