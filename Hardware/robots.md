@@ -24,6 +24,8 @@ This robot is the standard design of the MuM soft robots. The RT3 version consis
 
 [CAD-Files](www.todo.de)
 
+[Bill of Materials](bom/RT3.csv)
+
 <br clear="right">
 
 
@@ -35,6 +37,8 @@ This robot is the standard design of the MuM soft robots. The RT3 version consis
 This robot is the standard design of the MuM soft robots. The RT6 versin consists of two elements, each actuated by three strings. 
 
 [CAD-Files](www.todo.de)
+
+[Bill of Materials](bom/RT6.csv)
 
 [Mold instructions](Molds/rt6_Mold.md)
 
@@ -53,6 +57,8 @@ Known **issues**:
 
 [Manufacturing instructions](www.todo.de)
 
+[Bill of Materials](bom/RR.csv)
+
 [CAD-Files](www.todo.de)
 
 <br clear="right">
@@ -70,6 +76,8 @@ The silicone body of this robot is the [`RT3`](#rt3) - Tapered 3-String Robot.
 The Robot is driven by three strings. For this robot we have a special base plate with less servo spaces and an engraved coordinate system to place an April-Tag. The CAD-files also contain the parts of the frame.
 
 [CAD-Files](www.todo.de)
+
+[Bill of Materials](bom/RL.csv)
 
 [corresponding software documentation](https://github.com/SoftRobotics-MuM/course-introduction-to-robotics)
 
