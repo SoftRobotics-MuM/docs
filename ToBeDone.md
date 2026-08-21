@@ -14,7 +14,7 @@ wo legen wir sinnvoller weise die schaltpläne der platinen ab?
 
 ## Fertigung
 - Anleitungen Zusammenbau (Plattform, Markerhalter, Schnüre,...)
-- Stücklisten auch mit nicht gedruckten teilen (schrauben, servos, schnüre, etc.)
+- Stücklisten(bom) erweitern auch mit nicht gedruckten teilen (schrauben, servos, schnüre, etc.)
 
 ## Qualisys bridge
 nochmal eine etwas verständlichere Anleitung schreiben
@@ -26,8 +26,7 @@ in system-Overview ist eine dokumentation verlinkt, die leer ist. da müssen inh
 für einheitlichkeit und verlinkbarkeit ist es sinnvoller, wenn die dokumentationen im git liegen
 
 ## Sollen die Stücklisten auch ins git?
-das vielleicht nicht als markdown sondern als csv...
-entweder bom ordner im git löschen oder stücklisten ins git übertragen und in der cloud löschen
+Stücklisten aus der cloud löschen?
 
 ## Baugruppen zusammenfassen
 eine baugruppe für die base erstellen (stückliste + anleitung)
