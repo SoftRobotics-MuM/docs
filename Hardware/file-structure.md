@@ -85,3 +85,34 @@ For example:
 - `001` – Sequential part number
 - `tendon_holder_top` – Descriptive file name
 - `.ipt` – Autodesk Inventor part file
+
+## Versioning and Archiving
+
+Only the latest version of a CAD file is kept in the regular file structure. When this version is replaced by an updated file with the same part ID, the previous version must be archived.
+
+Each robot directory and the `10_Common_Candidates` directory has its own 90_Archive directory. If it does not exist yet, create it when archiving the first file. Previous versions are stored directly in this directory.
+
+Archived files follow the naming structure:
+
+`<part-ID>_<archive-date>_<description>_<name>`
+
+- **Part ID** - remains unchanged.
+- **Archive date** - the date on which the file was archived, using the format `YYYY-MM`.
+- **Description** - may be adjusted if necessary.
+- **Name** - optional name or initials of the person who created or modified the version.
+
+### For example:
+
+before replacing
+
+`RR-P-001_tendon_holder_top.ipt`
+
+Move the previous version to:
+
+```text
+RR_Robot_retractable/
+└── 90_Archive/ 
+    └── RR-P-001_2026-08_tendon_holder_top_aName.ipt
+```
+
+Only create a new part ID if the modified part is no longer interchangeable with the previous version. Otherwise, keep the existing part ID and archive the replaced version.
