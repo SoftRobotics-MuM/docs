@@ -27,6 +27,7 @@ für einheitlichkeit und verlinkbarkeit ist es sinnvoller, wenn die dokumentatio
 
 ## Sollen die Stücklisten auch ins git?
 das vielleicht nicht als markdown sondern als csv...
+entweder bom ordner im git löschen oder stücklisten ins git übertragen und in der cloud löschen
 
 ## Baugruppen zusammenfassen
 eine baugruppe für die base erstellen (stückliste + anleitung)
