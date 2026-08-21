@@ -55,7 +55,7 @@ Known **issues**:
 - The mold consists of many individual parts, making the casting process complex.
 - The tubes used to reduce friction tend to slip out of their holes.
 
-[Manufacturing instructions](www.todo.de)
+[Manufacturing instructions](Molds/RR_mold.pdf)
 
 [Bill of Materials](bom/RR.csv)
 
