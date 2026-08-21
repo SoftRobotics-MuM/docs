@@ -23,6 +23,8 @@ nochmal eine etwas verständlichere Anleitung schreiben
 in system-Overview ist eine dokumentation verlinkt, die leer ist. da müssen inhalte rein
 
 ## gussform anleitung von rr als markdown
+das ist jetzt als pdf im git, auch weil da sehr viele bilder drin sind. 
+Das sollte dann vermutlich auch aus der cloud gelöscht werden (in der cloud liegt auch die .odt datei, falls man die pdf doch nochmal ändern will)
 für einheitlichkeit und verlinkbarkeit ist es sinnvoller, wenn die dokumentationen im git liegen
 
 ## Sollen die Stücklisten auch ins git?
