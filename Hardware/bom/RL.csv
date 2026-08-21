@@ -18,7 +18,7 @@ RT3-M-002,Mold,1,10_CAD_Source/20_Robots/RT3_Robot_tapered-3strings/20_Molding/R
 RT3-M-003,Mold,1,10_CAD_Source/20_Robots/RT3_Robot_tapered-3strings/20_Molding/RT3-M-003_Zentrierteil.ipt,Gussform nur für die Fertigung
 ,,,,
 Sonstige,,,,
-,Circuit board
+,Circuit board,,,
 ,Tendon,,,
 ,Servo motors,3,,
 ,Screws(M3x10),12,,for Tendonwheels
