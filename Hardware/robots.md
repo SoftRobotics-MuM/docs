@@ -26,7 +26,7 @@ This robot is the standard design of the MuM soft robots. The RT3 version consis
 
 [CAD-Files](www.todo.de)
 
-[Bill of Materials](bom/RT3.csv)
+[Bill of Materials](www.todo.de)
 
 There are no individual mold instructions until now. But it's basically the same as the 6-String robot with less parts.
 
@@ -44,7 +44,7 @@ This robot is the standard design of the MuM soft robots. The RT6 version consis
 
 [CAD-Files](www.todo.de)
 
-[Bill of Materials](bom/RT6.csv)
+[Bill of Materials](www.todo.de)
 
 [Mold instructions](Molds/RT6_mold.md)
 
@@ -63,7 +63,7 @@ Known **issues**:
 
 [Manufacturing instructions](Molds/RR_mold.pdf)
 
-[Bill of Materials](bom/RR.csv)
+[Bill of Materials](www.todo.de)
 
 [CAD-Files](www.todo.de)
 
@@ -83,7 +83,7 @@ The Robot is driven by three strings. For this robot we have a special base plat
 
 [CAD-Files](www.todo.de)
 
-[Bill of Materials](bom/RL.csv)
+[Bill of Materials](www.todo.de)
 
 [corresponding software documentation](https://github.com/SoftRobotics-MuM/course-introduction-to-robotics)
 
