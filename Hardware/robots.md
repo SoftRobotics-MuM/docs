@@ -30,7 +30,7 @@ This robot is the standard design of the MuM soft robots. The RT3 version consis
 
 There are no individual mold instructions until now. But it's basically the same as the 6-String robot with less parts.
 
-[Mold instructions RT6](Molds/RT6_mold.md)
+[Mold instructions RT6](www.todo.de)
 
 <br clear="right">
 
@@ -46,7 +46,7 @@ This robot is the standard design of the MuM soft robots. The RT6 version consis
 
 [Bill of Materials](www.todo.de)
 
-[Mold instructions](Molds/RT6_mold.md)
+[Mold instructions](www.todo.de)
 
 <br clear="right">
 
@@ -61,7 +61,7 @@ Known **issues**:
 - The mold consists of many individual parts, making the casting process complex.
 - The tubes used to reduce friction tend to slip out of their holes.
 
-[Manufacturing instructions](Molds/RR_mold.pdf)
+[Manufacturing instructions](www.todo.de)
 
 [Bill of Materials](www.todo.de)
 
