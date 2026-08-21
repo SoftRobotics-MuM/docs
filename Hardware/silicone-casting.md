@@ -21,9 +21,7 @@ The higher the Shore hardness, the harder the silicone.
 The silicone releases easily from the 3D-printed molds. Therefore, no further processing or coating of the mold is necessary.
 
 ### Assemble the mold
-These steps are robot specific. For detailed instructions on **preparing the molds** see the corresponding mold documentation:
-- [`RR` - Retractable robot](www.todo.de)
-- [`RT6` - Tapered robot](Molds/RT6_mold.md)
+These steps are robot specific. For detailed instructions on **preparing the molds** see the corresponding **Manufacturing Instructions** in the [cloud](www.todo.de)
 
 > [!CAUTION]
 > Make sure that there are no gaps for the silicone to leak out! You can use tape to seal them.
@@ -109,6 +107,5 @@ You can look up the Curing Time in the table at the top. You can find this at th
 The Curing Time depends on the weather. Therefore when it is really cold the silicone might need more time.
 
 ## Remove the mold
-These steps are robot specific. For detailed instructions on **removing the molds** see the corresponding mold documentation:
-- [`RR` - Retractable robot](www.todo.de)
-- [`RT6` - Tapered robot](Molds/RT6_mold.md)
+These steps are robot specific. For detailed instructions on **removing the molds** see the corresponding **Manufacturing Instructions** in the [cloud](www.todo.de)
+
