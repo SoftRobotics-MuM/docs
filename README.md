@@ -25,4 +25,4 @@ more or less helpful documentations:
 Contain documentations for specific projects and are not needed to work with the system.
 - [Course: introduction to robotics](https://github.com/SoftRobotics-MuM/course-introduction-to-robotics)
 - [Latency Measurement](https://github.com/SoftRobotics-MuM/Latency-measurement)
-- [Neural Network-Based Coordination of a UR10e and Soft Robot](Software/UR10/ros-hub_documentation.md)
+- [Neural Network-Based Coordination of a UR10e and Soft Robot](https://github.com/SoftRobotics-MuM/ros-hub)
