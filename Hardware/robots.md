@@ -40,7 +40,7 @@ This robot is the standard design of the MuM soft robots. The RT6 versin consist
 
 [Bill of Materials](bom/RT6.csv)
 
-[Mold instructions](Molds/RT6_Mold.md)
+[Mold instructions](Molds/RT6_mold.md)
 
 <br clear="right">
 
