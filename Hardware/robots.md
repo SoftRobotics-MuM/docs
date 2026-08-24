@@ -1,5 +1,5 @@
 # Robots
-There are various robots in use. For every robot there is a directory in the [cloud](www.todo.de), containing the corresponding CAD files and documentation.
+There are various robots in use. For every robot there is a directory in the [cloud](https://cloud.tuhh.de/index.php/apps/files/files/223638968?dir=/SoftRobotics-MuM/CAD_Source), containing the corresponding CAD files and documentation.
 
 The `00_Documentation` directory of each robot contains relevant documentation, such as the **bill of materials** and, where available, **manufacturing instructions**.
 
@@ -24,13 +24,13 @@ For information about how to **manufacture the silicone bodies**, see the [silic
 
 This robot is the standard design of the MuM soft robots. The RT3 version consists of one element, three strings.
 
-[CAD-Files](www.todo.de)
+[CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639088?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT3_Robot_tapered-3strings)
 
-[Bill of Materials](www.todo.de)
+[Bill of Materials](https://cloud.tuhh.de/index.php/apps/files/files/223639331?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT3_Robot_tapered-3strings/00_Documentation)
 
 There are no individual mold instructions until now. But it's basically the same as the 6-String robot with less parts.
 
-[Mold instructions RT6](www.todo.de)
+[Manufacturing instructions RT6](https://cloud.tuhh.de/index.php/apps/files/files/223639109?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT6_Robot_tapered-6strings/00_Documentation)
 
 <br clear="right">
 
