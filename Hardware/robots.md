@@ -42,11 +42,11 @@ There are no individual mold instructions until now. But it's basically the same
 
 This robot is the standard design of the MuM soft robots. The RT6 version consists of two elements, each actuated by three strings. 
 
-[CAD-Files](www.todo.de)
+[CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639109?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT6_Robot_tapered-6strings)
 
-[Bill of Materials](www.todo.de)
+[Bill of Materials](https://cloud.tuhh.de/index.php/apps/files/files/223639109?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT6_Robot_tapered-6strings/00_Documentation)
 
-[Mold instructions](www.todo.de)
+[Mold instructions](https://cloud.tuhh.de/index.php/apps/files/files/223639109?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT6_Robot_tapered-6strings/00_Documentation)
 
 <br clear="right">
 
@@ -61,11 +61,11 @@ Known **issues**:
 - The mold consists of many individual parts, making the casting process complex.
 - The tubes used to reduce friction tend to slip out of their holes.
 
-[Manufacturing instructions](www.todo.de)
+[CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639046?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RR_Robot_retractable)
 
-[Bill of Materials](www.todo.de)
+[Bill of Materials](https://cloud.tuhh.de/index.php/apps/files/files/223639049?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RR_Robot_retractable/00_Documentation)
 
-[CAD-Files](www.todo.de)
+[Manufacturing instructions](https://cloud.tuhh.de/index.php/apps/files/files/223639049?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RR_Robot_retractable/00_Documentation)
 
 <br clear="right">
 
@@ -81,9 +81,9 @@ The silicone body of this robot is the [`RT3`](#rt3) - Tapered 3-String Robot.
 
 The Robot is driven by three strings. For this robot we have a special base plate with less servo spaces and an engraved coordinate system to place an April-Tag. The CAD-files also contain the parts of the frame.
 
-[CAD-Files](www.todo.de)
+[CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639028?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RL_Robot_introductions-to-robotics)
 
-[Bill of Materials](www.todo.de)
+[Bill of Materials](https://cloud.tuhh.de/index.php/apps/files/files/223639031?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RL_Robot_introductions-to-robotics/00_Documentation)
 
 [corresponding software documentation](https://github.com/SoftRobotics-MuM/course-introduction-to-robotics)
 
@@ -97,7 +97,7 @@ The Robot is driven by three strings. For this robot we have a special base plat
 
 <img src="Images/gripper_gr.jpg" alt="Gripper" width="200" align="right">
 
-[CAD-Files](www.todo.de)
+[CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223638971?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/GR_Gripper)
 
 <br clear="right">
 
@@ -110,6 +110,6 @@ The Robot is driven by three strings. For this robot we have a special base plat
 
 This is an earlier version of the standard soft robot and is replaced by the `RT6` – Tapered 6-String Robot.
 
-[CAD-Files](www.todo.de)
+[CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639070?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RS_robot_straight_6)
 
 <br clear="right">
