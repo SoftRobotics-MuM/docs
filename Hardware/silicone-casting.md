@@ -10,7 +10,7 @@ This is a general guide on how to work with silicone.
 | **Shore Hardness [ShA]** | **Shore Härte [ShA]** | 0 | 22 | 33 | 43|
 | **Tensile Strength [N/mm²]** | **Zugfestigkeit [N/mm²]** | 1.1 | 4.5 | 1.2 | 5.0|
 | **Elongation at Break [%]** | **Bruchdehnung [%]** | 400 | 480 | 460 | 250|
-| **Mixing Ratio [kg:kg]** | **Mischverhältnis [kg:kg]** | ? | ? | 1:1 | 1:1 |
+| **Mixing Ratio [kg:kg]** | **Mischverhältnis [kg:kg]** | 1:1 | 1:1 | 1:1 | 1:1 |
 
 Most of tendon based robots are made of `RTV Silikon HT 33 Transparent` but a few (mostly older versions) are made of `RTV Silikon HT 45 Transparent`
 
