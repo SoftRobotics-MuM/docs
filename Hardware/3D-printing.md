@@ -1,4 +1,5 @@
 # 3D Printing
+**Follow the operating instructions:** [Betriebsanweisung für den FDM 3D-Drucker (PDF)](https://github.com/SoftRobotics-MuM/docs/blob/main/Hardware/Images/Betriebsanweisung_FDM_3D_Drucker.pdf).
 
 ## PrusaSlicer Setup
 
