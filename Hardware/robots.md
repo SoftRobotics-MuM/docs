@@ -9,8 +9,8 @@ For information about how to **manufacture the silicone bodies**, see the [silic
 
 ## Existing Tendon-Actuated Robots
 
-- [`RT3`](#rt3) - Tapered 3-String Robot
-- [`RT6`](#rt6) - Tapered 6-String Robot
+- [`RT3`](#rt3) - Tapered 3-Tendon Robot
+- [`RT6`](#rt6) - Tapered 6-Tendon Robot
 - [`RR`](#rr) - Retractable Robot
 - [`RL`](#rl) - Introduction to Robotics Robot
 - [`GR`](#gr) - Gripper
@@ -18,17 +18,17 @@ For information about how to **manufacture the silicone bodies**, see the [silic
 
 
 <a name="rt3"></a>
-## `RT3` – Tapered 3-String Robot
+## `RT3` – Tapered 3-Tendon Robot
 
 <img src="Images/robot_rt3.jpg" alt="RT3 Robot" width="200" align="right">
 
-This robot is the standard design of the MuM soft robots. The RT3 version consists of one element, three strings.
+This robot is the standard design of the MuM soft robots. The RT3 version consists of one element, three tendons.
 
 [CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639088?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT3_Robot_tapered-3strings)
 
 [Bill of Materials](https://cloud.tuhh.de/index.php/apps/files/files/223639331?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT3_Robot_tapered-3strings/00_Documentation)
 
-There are no individual mold instructions until now. But it's basically the same as the 6-String robot with less parts.
+There are no individual mold instructions until now. But it's basically the same as the 6-Tendon robot with less parts.
 
 [Manufacturing instructions RT6](https://cloud.tuhh.de/index.php/apps/files/files/223639109?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT6_Robot_tapered-6strings/00_Documentation)
 
@@ -36,11 +36,11 @@ There are no individual mold instructions until now. But it's basically the same
 
 
 <a name="rt6"></a>
-## `RT6` – Tapered 6-String Robot
+## `RT6` – Tapered 6-Tendon Robot
 
 <img src="Images/robot_rt6.jpg" alt="RT6 Robot" width="200" align="right">
 
-This robot is the standard design of the MuM soft robots. The RT6 version consists of two elements, each actuated by three strings. 
+This robot is the standard design of the MuM soft robots. The RT6 version consists of two elements, each actuated by three tendons. 
 
 [CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639109?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RT6_Robot_tapered-6strings)
 
@@ -55,7 +55,7 @@ This robot is the standard design of the MuM soft robots. The RT6 version consis
 
 <img src="Images/robot_rr.jpg" alt="RR Robot" width="200" align="right">
 
-The retractable robot is designed to change its length, allowing it to reach a larger workspace. It can be built with either three or six strings.
+The retractable robot is designed to change its length, allowing it to reach a larger workspace. It can be built with either three or six tendons.
 
 Known **issues**:
 - The mold consists of many individual parts, making the casting process complex.
@@ -77,9 +77,9 @@ Known **issues**:
 
 This is the robot that is used in the course '**Introduction to robotics**'. The purpose of this robot is to be controlled with visual localization of the April-Tags
 
-The silicone body of this robot is the [`RT3`](#rt3) - Tapered 3-String Robot.
+The silicone body of this robot is the [`RT3`](#rt3) - Tapered 3-Tendon Robot.
 
-The Robot is driven by three strings. For this robot we have a special base plate with less servo spaces and an engraved coordinate system to place an April-Tag. The CAD-files also contain the parts of the frame.
+The Robot is driven by three tendons. For this robot we have a special base plate with less servo spaces and an engraved coordinate system to place an April-Tag. The CAD-files also contain the parts of the frame.
 
 [CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639028?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RL_Robot_introductions-to-robotics)
 
@@ -108,7 +108,7 @@ The Robot is driven by three strings. For this robot we have a special base plat
 
 <img src="Images/robot_rs.jpg" alt="RS Robot" width="200" align="right">
 
-This is an earlier version of the standard soft robot and is replaced by the `RT6` – Tapered 6-String Robot.
+This is an earlier version of the standard soft robot and is replaced by the `RT6` – Tapered 6-Tendon Robot.
 
 [CAD-Files](https://cloud.tuhh.de/index.php/apps/files/files/223639070?dir=/SoftRobotics-MuM/CAD_Source/20_Robots/RS_robot_straight_6)
 
