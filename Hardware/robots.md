@@ -1,5 +1,5 @@
 # Robots
-There are various robots in use. For every robot there is a directory in the [cloud](https://cloud.tuhh.de/index.php/apps/files/files/223638968?dir=/SoftRobotics-MuM/CAD_Source), containing the corresponding CAD files and documentation.
+There are various tendon-actuated robots in use. For every robot there is a directory in the [cloud](https://cloud.tuhh.de/index.php/apps/files/files/223638968?dir=/SoftRobotics-MuM/CAD_Source), containing the corresponding CAD files and documentation.
 
 The `00_Documentation` directory of each robot contains relevant documentation, such as the **bill of materials** and, where available, **manufacturing instructions**.
 
@@ -7,7 +7,7 @@ For information about the **CAD directory** structure and file naming convention
 
 For information about how to **manufacture the silicone bodies**, see the [silicone instructions](silicone-casting.md) and the individual Mold instructions
 
-## Existing Robots
+## Existing Tendon-Actuated Robots
 
 - [`RT3`](#rt3) - Tapered 3-String Robot
 - [`RT6`](#rt6) - Tapered 6-String Robot
