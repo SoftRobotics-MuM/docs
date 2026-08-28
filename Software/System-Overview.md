@@ -1,7 +1,10 @@
 # Software Overview
 ## System Overview
-The basic structure of the software system is visualized here.
+The basic structure of the system is visualized here.
 
+<img src="https://github.com/SoftRobotics-MuM/docs/blob/main/Hardware/Images/system_architecture.svg" alt="System architecture."/>
+
+<!--
 ```mermaid
 flowchart LR
 
@@ -41,6 +44,7 @@ class Robot Rot;
 class Custom,Windows,Ubuntu Gelb;
 class MicroROS,QualisysBridge,Teensy,Servos,SensorBoard,Qualisys Blau;
 ```
+-->
 ## Work With The System
 ### Initial Setup
 For the micro-ROS bridge
