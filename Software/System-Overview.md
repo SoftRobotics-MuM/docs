@@ -47,6 +47,9 @@ class MicroROS,QualisysBridge,Teensy,Servos,SensorBoard,Qualisys Blau;
 -->
 ## Work With The System
 ### Initial Setup
+> [!TIP]
+> The complete setup of the lab PC (micro-ROS agent, Qualisys bridge, sensor bridge, calibration) and of development PCs is described in [PC Setup](PC-Setup.md).
+
 For the micro-ROS bridge
 - You need to [install micro-ROS](micro-ROS.md) on your Ubuntu computer.
 

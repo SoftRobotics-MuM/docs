@@ -18,6 +18,7 @@ Contains:
 ### General documentation:
 Contains a system overview and guides how to work with the system.
 - [Introduction into the system](Software/System-Overview.md) 
+- [PC setup: lab PC and development PC](Software/PC-Setup.md)
 
 ### Rigid robot:
 more or less helpful documentations:
